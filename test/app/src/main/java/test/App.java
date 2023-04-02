@@ -21,7 +21,7 @@ public class App {
 	public static void main(String[] args) throws ParseException {
 
 		AppConfig email = new AppConfig();
-		email.setStrHost("pop.gmail.com");
+		email.setStrHost("imap.gmail.com");
 		email.setIntPort(993);
 		email.setStrProtocol("imaps");
 		email.setStrPassword("****");
