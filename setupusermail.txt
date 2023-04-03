@@ -1,3 +1,3 @@
 B1: Truy cập Gmail setting bật xác thực 2 lớp và khởi tạo mật khẩu ứng dụng
-B2: Bật Quyền truy cập qua ứng dụng máy khách thông qua 2 phương thức IMAP & POP3
+B2: Bật Quyền truy cập qua ứng dụng máy khách thông qua 2 giao thức IMAP & POP3
 Ready to connect!!!
